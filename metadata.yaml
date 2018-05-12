@@ -1,0 +1,26 @@
+_repo: In-the-Time-That-Was_25483
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 25483-h/images/cover1tn.jpg
+creator:
+  author:
+    agent_name: Thorne, James Frederic
+    birthdate: 1871
+    gutenberg_agent_id: '31370'
+    url: http://www.gutenberg.org/2009/agents/31370
+description: ''
+gutenberg_issued: '2008-05-16'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '25483'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Chilkat Indians -- Legends'
+- !lcc 'GR'
+- !lcsh 'Chilkat Indians -- Folklore'
+title: In the Time That Was
+url: http://www.gutenberg.org/ebooks/25483
